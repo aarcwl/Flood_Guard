@@ -1,0 +1,3 @@
+# FloodGuard is primarily a Tasker automation; no Python packages required.
+# The optional desktop report helper uses only the standard library.
+# Placeholder so tooling/CI doesn't fail on an empty file.
