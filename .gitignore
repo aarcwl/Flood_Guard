@@ -1,0 +1,12 @@
+# Tasker / OS artifacts
+*.bak
+.DS_Store
+Thumbs.db
+
+# Local export copies
+tasker/*_export.xml
+
+# Python
+__pycache__/
+*.pyc
+.venv/
